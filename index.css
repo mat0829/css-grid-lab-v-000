@@ -9,7 +9,7 @@ body {
   width: 100vw;
   /* your properties here */
   display: grid;
-  grid-gap: 5px
+  grid-gap: 5px;
 }
 
 .grid-item {
